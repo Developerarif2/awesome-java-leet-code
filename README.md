@@ -1,5 +1,7 @@
 # Example for Pull Request.
 
+# Awesome Repository/
+
 # awesome-java-leetcode
 
 我如今是一名 Android Developer，大学的我曾是一名 ACMer，我一直认为数据结构和算法是作为一名程序员必须掌握和善于利用的，为了不让数据结构和算法淡出我的记忆，所以我打算重拾 LeetCode 之 Algorithm，语言选择的是 Java，题库会一点点完善起来，按简单，中等，困难分类，相应难度下按题号排序，源代码在 [src][src] 目录中，相关解题都在 [note][note] 目录中，想要学习数据结构和算法或打算刷 LeetCode 的小伙伴们欢迎 star 哦。
